@@ -17,7 +17,7 @@ The **Interactive Resource Allocation Graph Simulator** is designed to enhance u
 ### Authors
 - **Ch Shiva Kalyan (34)** - 12307446, K23WA  
 - **Abhiram (35)** - 12319957, K23WA  
-- **Mohd Subhan** - 12314341, K23WA  
+- **Mohd Subhan (36)** - 12314341, K23WA  
 **Submitted to:** Dr. Gurbinder Singh Brar
 
 ## Features
@@ -38,8 +38,7 @@ The **Interactive Resource Allocation Graph Simulator** is designed to enhance u
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/chshivakalyan/Interactive-resource-allocation-graph-simulator.git
-   cd Interactive-resource-allocation-graph-simulator
+   https://github.com/Mohd-Subhan/Interactive-Resource-Allocation-Graph-Simulator-OS-Project-/tree/main
 2. **Install Dependencies**:
      pip install networkx matplotlib
 3. **Usage**
