@@ -15,8 +15,6 @@ The **Interactive Resource Allocation Graph Simulator** is designed to enhance u
 - Allowing users to allocate and release resources interactively.
 
 ### Authors
-- **Ch Shiva Kalyan (34)** - 12307446, K23WA  
-- **Abhiram (35)** - 12319957, K23WA  
 - **Mohd Subhan (36)** - 12314341, K23WA  
 **Submitted to:** Dr. Gurbinder Singh Brar
 
